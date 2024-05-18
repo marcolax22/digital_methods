@@ -5,6 +5,7 @@
 1. [Data Collection](#data-collection)
 2. [API Key](#api-key)
 3. [Code Requirements](#code-requirements)
+4. [Code Book](#code-book)
 
 ## Data Collection
 
@@ -25,6 +26,10 @@ Use pip install for the project requirements:
 
 Python Version: `Python3.11.1`
 
+## Code Book
+
+- Find the Codebook for the Channel Sampling [here](documentation/codebook_sampling.md).
+- Find the Codebook for the Immersion Journal [here](documentation/codebook_immersion-journal.md).
 
 
 
