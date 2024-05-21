@@ -24,7 +24,7 @@ Use pip install for the project requirements:
 
 `pip install -r requirements.txt` 
 
-Python Version: `Python3.11.1`
+Used Python Version: `Python3.11.1`
 
 ## Code Book
 
