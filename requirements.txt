@@ -2,3 +2,5 @@ pandas
 google-api-python-client
 random
 numpy
+nltk
+string

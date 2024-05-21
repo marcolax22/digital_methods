@@ -2,7 +2,7 @@
 
 Codebook for the file `channel_sampling.xlxs`. 
 
-- The file is stored here.
+- The file is stored [here](../data/channel_sampling.xlsx).
 
 ## General Information
  Our selection criteria for sampling the given channels were based on qualitative measures which included the ammounts of comments, videos that cover climate change (specifically climate contrarianism), and the number of up-to date videos.
