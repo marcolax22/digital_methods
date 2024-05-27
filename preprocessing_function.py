@@ -62,3 +62,14 @@ def lemmatize_words(data, column):
     ]))
     
     return data
+
+def convert_date_format(df, column_name):
+    # Convert the column to datetime
+    df[column_name] = pd.to_datetime(df[column_name])
+    
+    # Format the dates back to 'dd mm yyyy' strings
+    df[column_name] = df[column_name].dt.strftime('%Y-%m-%d')
+    
+    return df
+
+
