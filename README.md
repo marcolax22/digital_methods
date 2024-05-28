@@ -27,7 +27,7 @@ The project includes the code, qualitative and quantative data, as well as the d
 The Data Analysis is staged into different parts.
 
 1. Explorative Sampling of the Comments. Through the sampling function of the script `sampling-open-coding.ipynb`.
-2. Focused anaylsis of the comments with the help of the keywords which were identified through topic modeling in the script `data-analysis.ipynb`. Furthermore keywords were found through the word2vec model in the script ``.
+2. Focused anaylsis of the comments with the help of the keywords which were identified through topic modeling in the script `topic-modelling.ipynb`. Furthermore keywords were found through the word2vec model in the script `Word2vec.ipynb`.
 3. The final classifier of the comments can be found in the script ``.
 
 The script `preprocessing_functions.py` includes functions which where used in the different scripts. Each functions is descript in the file.
