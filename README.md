@@ -2,15 +2,41 @@
 
 **Table of Content:**
 
-1. [Data Collection](#data-collection)
-2. [Data Analysis](#data-analysis)
-3. [API Key](#api-key)
-4. [Code Requirements](#code-requirements)
-5. [Code Book](#code-book)
+1. [Project](#project)
+2. [Data Collection](#data-collection)
+3. [Data Analysis](#data-analysis)
+4. [API Key](#api-key)
+5. [Code Requirements](#code-requirements)
+6. [Code Book](#code-book)
+
+## Project
+
+This repository is related to the Exam **Digital Methods** at the **University of Copenhagen** for the Masters degree **Social Data Science**. The undelying project aims to explore Climate Contrarian Narratives.
+
+The project includes the code, qualitative and quantative data, as well as the documentation.
 
 ## Data Collection
 
+- The process and code of the data collection can be found in the script `data-collection.ipynb`.
+
+- The list of sampled channels can be found [here](data/channel_sampling.xlsx).
+    - The related Codebook can be found in the following section: [Code Book](#code-book).
+
 ## Data Analysis
+
+The Data Analysis is staged into different parts.
+
+1. Explorative Sampling of the Comments. Through the sampling function of the script `sampling-open-coding.ipynb`.
+2. Focused anaylsis of the comments with the help of the keywords which were identified through topic modeling in the script `data-analysis.ipynb`. Furthermore keywords were found through the word2vec model in the script ``.
+3. The final classifier of the comments can be found in the script ``.
+
+The script `preprocessing_functions.py` includes functions which where used in the different scripts. Each functions is descript in the file.
+
+## Immersion Journal
+
+The Immersion Journal captures the comments from the focused and open Coding approach used in this study. The Immersion Journal can be found [here](#immersion-journal).
+
+- The related Codebook can be found in the following section: [Code Book](#code-book).
 
 ## API Key
 
