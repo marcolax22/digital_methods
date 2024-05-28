@@ -4,3 +4,6 @@ random
 numpy
 nltk
 string
+re
+spacy 
+gensim

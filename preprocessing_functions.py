@@ -1,4 +1,6 @@
 import string
+import pandas as pd
+import nltk
 from nltk.corpus import stopwords
 from nltk.stem import WordNetLemmatizer
 from nltk import word_tokenize, pos_tag
@@ -63,6 +65,7 @@ def lemmatize_words(data, column):
     
     return data
 
+# conver date format
 def convert_date_format(df, column_name):
     # Convert the column to datetime
     df[column_name] = pd.to_datetime(df[column_name])
@@ -71,5 +74,16 @@ def convert_date_format(df, column_name):
     df[column_name] = df[column_name].dt.strftime('%Y-%m-%d')
     
     return df
+
+#Defining a function that will create bigrams 
+def bigrams(doc): 
+    
+    bigrams = [] 
+    
+    for bigram in list(nltk.bigrams(doc)): 
+        bigrams.append("_".join(bigram))    
+    
+    return bigrams
+
 
 
