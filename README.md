@@ -5,15 +5,15 @@
 1. [Project](#project)
 2. [Data Collection](#data-collection)
 3. [Data Analysis](#data-analysis)
-4. [API Key](#api-key)
-5. [Code Requirements](#code-requirements)
-6. [Code Book](#code-book)
+4. [Code Book](#code-book)
+5. [Requirements](#requirements)
+
 
 ## Project
 
 This repository is related to the Exam **Digital Methods** at the **University of Copenhagen** for the Masters degree **Social Data Science**. The undelying project aims to explore Climate Contrarian Narratives.
 
-The project includes the code, qualitative and quantative data, as well as the documentation.
+The project includes the code, qualitative and quantative data, as well as the documentation of the qualitative and quantative approaches.
 
 ## Data Collection
 
@@ -22,13 +22,17 @@ The project includes the code, qualitative and quantative data, as well as the d
 - The list of sampled channels can be found [here](data/channel_sampling.xlsx).
     - The related Codebook can be found in the following section: [Code Book](#code-book).
 
-## Data Analysis
+## Qualitative and Quantative Data Analysis
 
 The Data Analysis is staged into different parts.
 
 1. Explorative Sampling of the Comments. Through the sampling function of the script `sampling-open-coding.ipynb`.
+    - The related Open Coding file can be found [here](#immersion-journal).
 2. Focused anaylsis of the comments with the help of the keywords which were identified through topic modeling in the script `topic-modelling.ipynb`. Furthermore keywords were found through the word2vec model in the script `Word2vec.ipynb`.
+    - The related Focused Coding file can be found[here](#immersion-journal).
+4. Classification of the comments in a qualitative way with a closed coding approach. The related Codebook can be found in the section [Code Book](#code-book).
 3. The final classifier of the comments can be found in the script ``.
+
 
 The script `preprocessing_functions.py` includes functions which where used in the different scripts. Each functions is descript in the file.
 
@@ -38,7 +42,15 @@ The Immersion Journal captures the comments from the focused and open Coding app
 
 - The related Codebook can be found in the following section: [Code Book](#code-book).
 
-## API Key
+## Code Book
+
+- Find the Codebook for the Channel Sampling [here](documentation/codebook_sampling.md).
+- Find the Codebook for the Immersion Journal [here](documentation/codebook_immersion-journal.md).
+- Find the Codebook for the Closed Coding [here](documentation/closed-codebook_immersion-journal.md).
+
+## Requirements
+
+### API Key
 
 To run the code and get YouTube comments, you have to get an API key for YouTube. The explanation to create a key, you can finde [here](https://developers.google.com/youtube/v3/getting-started#before-you-start).
 
@@ -46,18 +58,13 @@ The Script `data-collection.ipynb` will ask you for the API key. You can read it
 
 Dependend on your quota from the Youtube API, you have to run the code multiple times with single `channel_id`. Therefore the list channel_ids is stored with all related channels we sampled on.
 
-## Code Requirements
+### Code Requirements
 
 Use pip install for the project requirements:
 
 `pip install -r requirements.txt` 
 
 Used Python Version: `Python3.11.1`
-
-## Code Book
-
-- Find the Codebook for the Channel Sampling [here](documentation/codebook_sampling.md).
-- Find the Codebook for the Immersion Journal [here](documentation/codebook_immersion-journal.md).
 
 
 
