@@ -15,6 +15,8 @@ This repository is related to the Exam **Digital Methods** at the **University o
 
 The project includes the code, qualitative and quantative data, as well as the documentation of the qualitative and quantative approaches.
 
+Write a Request for the data to: marco.l@correlaid.org
+
 ## Data Collection
 
 - The process and code of the data collection can be found in the script `data-collection.ipynb`.
