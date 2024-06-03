@@ -31,7 +31,7 @@ The Data Analysis is staged into different parts.
 2. Focused anaylsis of the comments with the help of the keywords which were identified through topic modeling in the script `topic-modelling.ipynb`. Furthermore keywords were found through the word2vec model in the script `Word2vec.ipynb`.
     - The related Focused Coding file can be found[here](#immersion-journal).
 4. Classification of the comments in a qualitative way with a closed coding approach. The related Codebook can be found in the section [Code Book](#code-book).
-3. The final classifier of the comments can be found in the script ``.
+3. The final classifier of the comments can be found in the script `dictionary-classifier.ipynb`.
 
 
 The script `preprocessing_functions.py` includes functions which where used in the different scripts. Each functions is descript in the file.
