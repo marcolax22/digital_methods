@@ -13,7 +13,7 @@ Closed-Coding Codebook for the categories in `immersion_journal.xlxs`.
 
 - **When not to use:**  Do not use if the comment is referring that global warming is happening in natural cycles.
 
-- **Keywords:**
+- **Keywords:** 'no climate emergency', 'melting', 'arctic ice', 'arctic sea ice', 'sea level rise', 'extreme weather', 'global cooling', 'greenland ice', 'ice cap', 'arctic ice', 'extreme heat', 'extreme cold'
 
 - **Example:**  “Climate is cooling, not warming. CO2 represents 0.04\% of the atmosphere. Ice caps have grown back to almost normal levels, and the planet is green due to the increased concentration of CO2 from 200 to 400 ppl. Storms are less frequent and severe than in the past. So, there is no existential threat to humanity due to the climate itself. But, the poles are shifting, and the earth and galaxy magnetic field and sheet are weaking, thus making us more suceptible to solar radiation (nova). This can trigger a new ice age.” - Immersion Journal (XX)
 
@@ -25,7 +25,7 @@ Closed-Coding Codebook for the categories in `immersion_journal.xlxs`.
 
 - **When not to use:** When people deny an increase in temperature, and if the refer to Co2 as important for plants, which implies that the impact is not bad.
 
-- **Keywords:**
+- **Keywords:** 'natural cycle', 'CO2 is not the cause', 'greenhouse gas', 'no CO2 Greenhouse Effect', 'no effect', 'miniscule effect', 'Man has no control'
 
 - **Example:** “I am a pilot and this guy is brilliant. If you want to know anything about weather,  ask a pilot. We deal with it every day in a way that most people don't realize. I always thought Greenhouse gases aren't a problem.”
 
@@ -37,7 +37,8 @@ Closed-Coding Codebook for the categories in `immersion_journal.xlxs`.
 
 - **When not to use:** Do not use if the comment is reffering that extreme weathers are not related to climate change.
 
-- **Keywords:**
+- **Keywords:** 'plant food', 'plant growth', 'thrive', 'carbon element is essential', 'average temperature increase', '1 degree', 
+'more fossil fuels', 'no co2', 'plant food', 'not pollution', '0.1C', 'ppm', 'not a pollutant'
 
 - **Example:** "Carbon is not pollution, it's plant food. Plant food does not need to be captured. The plants will "capture" it as they see fit and give us oxygen in return. We are far, far, closer to dangerously low levels of plant food than we are to having levels that are too high. You want to see what happens when we run out of plant food? None of us will be around very long to find out."
 
@@ -48,7 +49,7 @@ Closed-Coding Codebook for the categories in `immersion_journal.xlxs`.
 
 - **When not to use:** Do not use when climate solutions are related that elites and politicians are using climate solutions to make money.
 
-- **Keywords:**
+- **Keywords:** 'green energy', 'renewable energy', 'energy production', 'windmills', 'solar panel'
 
 - **Example:** "Millions of trees are being cut and burned to create power, and 'environmentalists' are ok with that.Solar panels and windmills do not work. So fossil fuels and nuclear are the ONLY way to go. The biggest obstacle is the self-righteous elites who don't care about people."
 
@@ -59,7 +60,7 @@ Closed-Coding Codebook for the categories in `immersion_journal.xlxs`.
 
 - **When not to use:** Do not use if the comment is discussing the economic or policy implications of climate change without questioning the science, or if it is talking about climate change in terms of personal actions or lifestyle changes without implying that the science is unreliable.
 
-- **Keywords:**
+- **Keywords:** 'alarmism', 'catastrophist', 'doomsday cult', 'climate hysteric', 'unscientific', 'corrupt politician', 'lie about everything', 'idiocy', 'lunatics', 'Climate Worship', 'Climatists', 'alarmists', 'compliant media', 'climate hysteria', 'climate narrative', 'climate cult', 'scientism', 'climate science myths', 'lying in science', 'climate apocalypse', 'propaganda', 'doomsayers', 'clown show', 'fake climate', 'climate change agenda', 'money made', 'fake news', 'climate terrorists'
 
 - **Example:** "97% of scientists believe in man made climate change. actual percentage is 0.5% They lie about everything."
 
@@ -70,6 +71,6 @@ Closed-Coding Codebook for the categories in `immersion_journal.xlxs`.
 
 - **When not to use:** Do not use when the comment is just degrading the political opponent.
 
-- **Keywords:**
+- **Keywords:** 'globalist', 'globalist elites', 'elitist', 'global government', 'one world', 'one world government', 'globalism', 'one world utopia', 'new world order', 'enriching themselves', 'saving the planet', 'control over your lives',  'tyranny', 'global elite', 'wef', 'population control'
 
 - **Example:** "The climate scam is just another tool of socialist/globalist and their Hiegalian dieltic. It was created so they can position their global governance solution. The work that people such as Mr Heller is doing is invaluable, but until we do the real work dismantling the UN/WEF and ridding the education system their influence we will end up living in pods in 15 minute cities, eating bugs and being enslaved with CBDs. And if you think Trump or any other seemingly right wing politicians will save you from this fate you are very nieve."
