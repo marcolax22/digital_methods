@@ -1,6 +1,6 @@
 # Digital Methods - Data Collection
 
-**Table of Content:**
+**Table of Contents:**
 
 1. [Project](#project)
     - [Data Collection](#data-collection)
@@ -12,24 +12,24 @@
 
 ## Project
 
-This repository is related to the Exam **Digital Methods** at the **University of Copenhagen** for the Masters degree **Social Data Science**. The undelying project aims to explore Climate Contrarian Narratives.
+This repository is related to the Exam **Digital Methods** at the **University of Copenhagen** for the Masters degree **Social Data Science**. The underlying project aims to explore Climate Contrarian Narratives.
 
-The project includes the code, qualitative and quantative data, as well as the documentation of the qualitative and quantative approaches.
+The project includes the code, qualitative and quantitative data, as well as the documentation of the qualitative and quantitative approaches.
 
 Write a Request for the data to: marco.l@correlaid.org
 
 ### Abstract of Methodology
 
 > To examine how climate contrarians claims are developing and spreading throughout the
-internet, this paper builds on three different analysis. Firstly, we will share the findings
+internet, this paper builds on three different analyses. Firstly, we will share the findings
 of our qualitative analysis using open and focused coding techniques. This approach will
 allow us to immerse ourselves in the dynamics of the community and comprehensively
 analyse the claims made in the comments on the selected videos. Secondly, we will show
 the results of our quantitative analysis to describe the distribution of the found claims
 within the qualitative analysis and thus confirm our assumptions about their separation
-into "old" and "new” claims. In addition, we will captured through our classifier the
+into "old" and "new” claims. In addition, we will capture through our classifier the
 interaction between these claims and assess their linkage. The last analyses is focusing
-on this connection with the integration of a network analyses.
+on this connection with the integration of a network analysis.
 
 ### Data Collection
 
@@ -44,12 +44,12 @@ The Data Analysis is staged into different parts.
 
 1. Explorative Sampling of the Comments. Through the sampling function of the script `sampling-open-coding.ipynb`.
     - The related Open Coding file can be found [here](#immersion-journal).
-2. Focused anaylsis of the comments with the Helper script `focused_coding.ipynb` where we can insert keywords which were identified through topic modeling in the script `topic-modelling.ipynb` or `Word2vec.ipynb`.
+2. Focused analysis of the comments with the Helper script `focused_coding.ipynb` where we can insert keywords which were identified through topic modelling in the script `topic-modelling.ipynb` or `Word2vec.ipynb`.
     - The related Immersion Journal from the Focused Coding, keywords and reflection on the explored comments up to that point, can be found [here](#immersion-journal).
 4. Classification of the comments in a qualitative way with a closed coding approach. The related Codebook can be found in the section [Code Book](#code-book).
-3. The quantatative dictionary classifier of the comments can be found in the script `dictionary-classifier.ipynb`.
+3. The quantitative dictionary classifier of the comments can be found in the script `dictionary-classifier.ipynb`.
 
-The script `preprocessing_functions.py` includes functions which where used in the different scripts. Each functions is descript in the file.
+The script `preprocessing_functions.py` includes functions which where used in the different scripts. Each function is descript in the file.
 
 ### Immersion Journal
 
@@ -67,7 +67,7 @@ The Immersion Journal captures the comments from the focused and open Coding app
 
 ### API Key
 
-To run the code and get YouTube comments, you have to get an API key for YouTube. The explanation to create a key, you can finde [here](https://developers.google.com/youtube/v3/getting-started#before-you-start).
+To run the code and get YouTube comments, you have to get an API key for YouTube. The explanation to create a key, you can find [here](https://developers.google.com/youtube/v3/getting-started#before-you-start).
 
 The Script `data-collection.ipynb` will ask you for the API key. You can read it in with creating a `api_key.py` file and store it as a variable api_key_1 or directly inserting it into the code.
 
