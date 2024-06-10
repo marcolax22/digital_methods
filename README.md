@@ -40,7 +40,7 @@ The script `preprocessing_functions.py` includes functions which where used in t
 
 ## Immersion Journal
 
-The Immersion Journal captures the comments from the focused and open Coding approach used in this study. The Immersion Journal can be found [here](#immersion-journal).
+The Immersion Journal captures the comments from the focused and open Coding approach used in this study. The Immersion Journal can be found [here](immersion_journal/immersion_journal.xlsx).
 
 - The related Codebook can be found in the following section: [Code Book](#code-book).
 
