@@ -9,6 +9,8 @@ Closed-Coding Codebook for the categories in `immersion_journal.xlxs`.
 ### 1. Global warming is not happening
 - **Description**: This is a claim that global warming is not happening.
 
+- **Definition**: Comments with a claim that clearly states that there is no global warming. The claim denies a rise in the Earth's temperature. The claim may instead refer to global cooling and thus makes it clear that there is no global warming.
+
 - **When to use:** Use when there is a reference that the average temperature on earth is not increasing. Or if the comment is reffering to the opposite of global warming, such as cooling.
 
 - **When not to use:**  Do not use if the comment is referring that global warming is happening in natural cycles.
@@ -20,6 +22,8 @@ Closed-Coding Codebook for the categories in `immersion_journal.xlxs`.
 
 ### 2. Human Greenhouse Gases are not causing global warming
 - **Description**: This is a claim that Human Greenhouse Gases are not causing global warming.
+
+- **Definition**: Comments with a claim that does not deny the rise in the Earth's temperature, but denies the link between this rise and human activities and emissions. The claim often refers to the fact that greenhouse gases have no effect on the Earth's climate and that the Earth warms solely through natural cycles.
 
 - **When to use:** Use when the comment is reffering that Co2 is not the cause of global warming. And that global warming is happening due to natural causes, as the sun or the vaporizing of the water.
 
@@ -33,6 +37,8 @@ Closed-Coding Codebook for the categories in `immersion_journal.xlxs`.
 ### 3. Climate impacts are not bad
 - **Description**: This is a claim that Climate impacts are not bad.
 
+- **Definition**: Comments with a claim that the effects of climate change are not bad. The claim can refer to CO2 being seen as harmless and calling for an increase in CO2 as it is plant food and greening the planet. It also refers to comments claiming that a longer summer is good as it is too cold anyway.
+
 - **When to use:** Apply if comments are reffering to the positive impacts of climate change, such as more Co2 is more food for plants, or higher temperature are good for the agriculture.
 
 - **When not to use:** Do not use if the comment is reffering that extreme weathers are not related to climate change.
@@ -45,6 +51,8 @@ Closed-Coding Codebook for the categories in `immersion_journal.xlxs`.
 ### 4. Climate solutions won't work
 - **Description**: This is a claim that Climate solutions won't work.
 
+- **Definition**: Comments with a claim that climate solutions are not efficient and will not work when scaling up. This can refer to technologies like solar panels, wind turbines, or new possibilities like carbon capture.
+
 - **When to use:** Use when comments are reffering to the inefficiency of climate solutions, such as solar panels or windmills. And that fossil fuels and nuclear are the only way to go. That climate change solutions are unrealistic and therefore do not work.
 
 - **When not to use:** Do not use when climate solutions are related that elites and politicians are using climate solutions to make money.
@@ -56,6 +64,8 @@ Closed-Coding Codebook for the categories in `immersion_journal.xlxs`.
 ### 5. Climate movement/science is unreliable
 - **Description**: This is a claim that Climate movement/science is unreliable.
 
+- **Definition**: Comments with the claim that climate movement/science is unreliable. This can refer to the lack of transparency of climate science, the manipulation of data, or the lack of trust in scientists. It can also refer to the accusation of scientists and activists of being corrupt or having an agenda. Additionally, this claim is appearing when the Contrarian Audience is blaming activists and science in any form.
+
 - **When to use:** Use when comments are reffering to the unreliability of climate science, such as the manipulation of data, or the lack of transparency of climate scientists. Furthermore, when scientist and certain groups are accused of being corrupt or having an agenda. Also if the media is reffered to be unreliable and the are alarmist or hysterics.
 
 - **When not to use:** Do not use if the comment is discussing the economic or policy implications of climate change without questioning the science, or if it is talking about climate change in terms of personal actions or lifestyle changes without implying that the science is unreliable.
@@ -66,6 +76,8 @@ Closed-Coding Codebook for the categories in `immersion_journal.xlxs`.
 
 ### 6. Climate change is invented by the global elite
 - **Description**: This is a claim that Climate change is invented by the global elite.
+
+- **Definition**: Comments on the claim that climate change was invented by the global elite. This can refer to the idea that climate change is a tool of the global elite. The global elite can be defined in different ways, it is not a coherent group but can be made up of political opponents, global corporations, powerful people or international organisations.
 
 - **When to use:** Use when comments are reffering to the idea that climate change is a tool used by the global elite to implement their world view, such as a new world order, or a global government. And that the climate change is a way to control people and make them more dependent on the government.
 
