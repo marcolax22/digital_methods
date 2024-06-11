@@ -1,12 +1,13 @@
 #hide api key
 api_key.py
 
-#hide data files for git
+#hide scripts for git
 concetenate.ipynb
+my_trainer
+
+#hide data
 comments.csv
 comments_final.csv
-bert.ipynb
-my_trainer
 
 #hide.pyc files and Mac things
 __pycache__

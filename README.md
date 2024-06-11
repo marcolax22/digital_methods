@@ -53,6 +53,7 @@ The Data Analysis is staged into different parts.
     - Added to this script is a outline of the network analysis based on Python Code. While to paper will represent to network based on a Gephi implementation.
     - Furthermore a backtracking of uncategorized comments can be found in the script to check on possible influence of uncategorized claims of the channels.
 5. The validation documents of the dictionary classifier can be found [here](data/validation_data.xlsx).
+6. (not included in our study) First test to categorize the Youtube comments with a BERT model can be found in the script `bert-classifier.ipynb`.
 
 The script `preprocessing_functions.py` includes functions which where used in the different scripts. Each function is descript in the file.
 
