@@ -48,6 +48,8 @@ The Data Analysis is staged into different parts.
     - The related Immersion Journal from the Focused Coding, keywords and reflection on the explored comments up to that point, can be found [here](#immersion-journal).
 4. Classification of the comments in a qualitative way with a closed coding approach. The related Codebook can be found in the section [Code Book](#code-book).
 3. The quantitative dictionary classifier of the comments can be found in the script `dictionary-classifier.ipynb`.
+    - Added to this script is a outline of the network analysis based on Python Code. While to paper will represent to network based on a Gephi implementation.
+    - Furthermore a backtracking of uncategorized comments can be found in the script to check on possible influence of uncategorized claims of the channels.
 
 The script `preprocessing_functions.py` includes functions which where used in the different scripts. Each function is descript in the file.
 
