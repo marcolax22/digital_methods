@@ -17,6 +17,7 @@ This repository is related to the Exam **Digital Methods** at the **University o
 The project includes the code, qualitative and quantitative data, as well as the documentation of the qualitative and quantitative approaches.
 
 Write a Request for the data to: marco.l@correlaid.org
+    - When getting the data store it in the data folder to run the code sucessfully.
 
 ### Abstract of Methodology
 
